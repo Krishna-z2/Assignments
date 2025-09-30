@@ -23,3 +23,13 @@ First Taking input from the user and then checking whether the number is even or
 We can use loops to performing a specific task again and again by declaring some codition or anything that the loop will follow.
 Here we sue loop for adding numbers from 1 to 50 that will give output.
 By creating a variable that is declared = 0. so, we can just add numbers into that variable.
+
+
+#  Assignment-3
+
+
+# Factorial:
+Taking inout from the user. Using Recursion which is a programming technique where fuction calls itself until it met a base condtion. In this a function call and calculate the factorial and then retrun the value. Atlast calling the function and displaying the output.
+
+# Calculate using Math Module:
+Using math module and accessing it's functions. Taking input from user and then calculating Square root , Log and Sine. We can find all of these using functions from the math module. 
