@@ -32,4 +32,14 @@ By creating a variable that is declared = 0. so, we can just add numbers into th
 Taking inout from the user. Using Recursion which is a programming technique where fuction calls itself until it met a base condtion. In this a function call and calculate the factorial and then retrun the value. Atlast calling the function and displaying the output.
 
 # Calculate using Math Module:
-Using math module and accessing it's functions. Taking input from user and then calculating Square root , Log and Sine. We can find all of these using functions from the math module. 
+Using math module and accessing it's functions. Taking input from user and then calculating Square root , Log and Sine. We can find all of these using functions from the math module.
+
+
+# Assignment-4
+
+
+# File, Error Handling:
+In This by using try and excpet we can easily continue the program if there is a problem. Basically, In this if the 'sample.txt' file exists just show what is written inside that file and if it's not the correct file then just display that file doesn't exist using except filenotfounderror.
+
+# Write & Append Data to a file:
+In this taking input from user about what you want to write in the file using file handling(open & close). First take input what user want's to write and then tell user that it's successfully written(using write & ('w' / 'r+')). Then again take input from user that does you want append any more data and show that data has appended(using write & ('a')). Atlast show what's written inside the file(using read & ('r')).
