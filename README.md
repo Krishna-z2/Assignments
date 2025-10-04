@@ -43,3 +43,15 @@ In This by using try and excpet we can easily continue the program if there is a
 
 # Write & Append Data to a file:
 In this taking input from user about what you want to write in the file using file handling(open & close). First take input what user want's to write and then tell user that it's successfully written(using write & ('w' / 'r+')). Then again take input from user that does you want append any more data and show that data has appended(using write & ('a')). Atlast show what's written inside the file(using read & ('r')).
+
+
+# Assignment-5
+
+
+# Dictionary of Student Marks:
+In this Task Taking input from user and Checking if the same name of student is in the Dictionary or not. Here , Name of student is Keys and
+Their Marks are values. By using error handling we can avoid program stop and error of KeyError.
+
+# List Slicing:
+In this task creating a list that consist elements from 1 to 10. Extracting First five elements using list slicing and then reversing the same
+first five elements list and displaying it.
